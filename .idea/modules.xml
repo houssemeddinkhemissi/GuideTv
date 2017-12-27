@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GuideTv.iml" filepath="$PROJECT_DIR$/GuideTv.iml" />
+      <module fileurl="file://C:\Users\Houssem Eddin\AndroidStudioProjects\GuideTv\GuideTv.iml" filepath="C:\Users\Houssem Eddin\AndroidStudioProjects\GuideTv\GuideTv.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Houssem Eddin\AndroidStudioProjects\GuideTv\app\app.iml" filepath="C:\Users\Houssem Eddin\AndroidStudioProjects\GuideTv\app\app.iml" />
     </modules>
   </component>
 </project>
